@@ -13,11 +13,11 @@ Our project empowers you to build your own AMR using open-source designs and acc
 - **Weight**: ~60 kg
 - **Camera view**: 120 degrees
 - **Speed**: 1500-2000 mm/s (unloaded), 1200-1500 mm/s (loaded)
-- **Positioning accuracy**: ±50 mm
+- **Positioning accuracy**: ±20 mm
 - **Dimensions**: 600x800 mm
-- **Battery**: 24/48 V, 48-56 Ah, 6 hours life
+- **Battery**: 24/48 V, 48-56 Ah, 8 hours life
 - **Communication**: Wi-Fi (2.4/5 GHz)
-- **Load capacity**: Up to 150 kg
+- **Load capacity**: up to 150 kg
 - **Operating temperature**: -10°C to +50°C
 - **Charging**: Contact/wireless
 
@@ -95,5 +95,5 @@ We are working on information about the workflow, coding standards, and submissi
 
 ### License
 
-This project is licensed under the MIT License. For more info please check `LICENSE` file in the root directory with the following content:
+This project is licensed under the MIT License. For more info please check `LICENSE` file in the root directory.
 
