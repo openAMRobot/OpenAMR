@@ -9,16 +9,16 @@ Our project empowers you to build your own AMR using open-source designs and acc
 ## Key features
 
 - **Navigation**: LIDAR/SLAM
-- **Drive Type**: Differential drive
+- **Drive type**: Differential drive
 - **Weight**: ~60 kg
-- **Camera View**: 120 degrees
+- **Camera view**: 120 degrees
 - **Speed**: 1500-2000 mm/s (unloaded), 1200-1500 mm/s (loaded)
-- **Positioning Accuracy**: ±50 mm
+- **Positioning accuracy**: ±50 mm
 - **Dimensions**: 600x800 mm
 - **Battery**: 24/48 V, 48-56 Ah, 6 hours life
 - **Communication**: Wi-Fi (2.4/5 GHz)
-- **Load Capacity**: Up to 150 kg
-- **Operating Temperature**: -10°C to +50°C
+- **Load capacity**: Up to 150 kg
+- **Operating temperature**: -10°C to +50°C
 - **Charging**: Contact/wireless
 
 ## Design and manufacturing
@@ -27,13 +27,13 @@ Our design is optimized for manufacturability, requiring only basic technologies
 
 ### Mechanical design and assembly
 
-1. **Downloadable Resources**:
+1. **Downloadable resources**:
     - Production drawings, 3D models, STEP, and DXF files
     - Specification sheet, including all parts and assemblies, sensors, and fasteners
-2. **Fabrication Process**:
+2. **Fabrication process**:
     - Discuss the drawings with a contractor for cutting and bending metal.
     - Assemble the chassis following the provided sequence.
-3. **Assembly Steps**:
+3. **Assembly steps**:
     - The chassis design and the recommended assembly sequence are illustrated in the provided images.
     - Detailed steps for assembling the drive wheels and other components are included.
 
