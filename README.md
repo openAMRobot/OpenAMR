@@ -1,4 +1,4 @@
-# Affordable Mobile Robot for SMEs
+# Affordable mobile robot for SMEs
 
 ## Introduction
 
@@ -6,7 +6,7 @@ Small and Medium Enterprises (SMEs) across various sectors can greatly benefit f
 
 Our project empowers you to build your own AMR using open-source designs and accessible manufacturing methods. This guide provides detailed drawings, 3D models, Bill of Materials (BOM), hardware architecture, navigation software, and user interface packages. Utilize straightforward manufacturing technologies to integrate advanced automation seamlessly into your business operations.
 
-## Key Features
+## Key features
 
 - **Navigation**: LIDAR/SLAM
 - **Drive Type**: Differential drive
@@ -21,11 +21,11 @@ Our project empowers you to build your own AMR using open-source designs and acc
 - **Operating Temperature**: -10°C to +50°C
 - **Charging**: Contact/wireless
 
-## Design and Manufacturing
+## Design and manufacturing
 
 Our design is optimized for manufacturability, requiring only basic technologies such as laser cutting, bending, turning (optional), and 3D printing (optional). Using mostly 2mm thick metal sheets, the design is robust yet simple to produce, allowing one person to build the robot in just one day if every part is ready.
 
-### Mechanical Design and Assembly
+### Mechanical design and assembly
 
 1. **Downloadable Resources**:
     - Production drawings, 3D models, STEP, and DXF files
@@ -37,9 +37,9 @@ Our design is optimized for manufacturability, requiring only basic technologies
     - The chassis design and the recommended assembly sequence are illustrated in the provided images.
     - Detailed steps for assembling the drive wheels and other components are included.
 
-### Hardware and Software Integration
+### Hardware and software integration
 
-1. **Electronics Block Diagram**:
+1. **Electronics block diagram**:
     - Main single-board computer (SBC)
     - Safety sensors (US, IR, bumper), RPI camera, and LiDAR
     - Controller Teensy board and firmware
@@ -47,19 +47,19 @@ Our design is optimized for manufacturability, requiring only basic technologies
     - Batteries, BMS, and wireless charger
     - On/Off switch and Emergency button
 
-2. **Main Components**:
+2. **Main components**:
     - **Raspberry Pi 5**: For main computing tasks.
     - **LIDAR**: For mapping and navigation.
     - **Sensors**: For obstacle detection and safety.
-    - **BLDC Motors and Drivers**: For movement control.
-    - **Battery System**: For power supply.
-    - **Wireless Charging**: For autonomous charging.
+    - **BLDC motors and drivers**: For movement control.
+    - **Battery system**: For power supply.
+    - **Wireless charging**: For autonomous charging.
 
-3. **Software Setup**:
+3. **Software setup**:
     - **Linorobot**: Open-source software package for navigation and control.
     - **UI**: Built with Flask and Java for user interaction.
 
-### Practical Applications and Future Enhancements
+### Practical applications and future enhancements
 
 This versatile design can be adapted to create different types of robots for various logistics tasks. It can also be modified to carry tools or a roller cage, increasing its usefulness in various scenarios. Examples of practical applications include:
 
@@ -73,27 +73,27 @@ This project provides a low-cost DIY autonomous mobile robot suitable for indust
 
 For any questions, please refer to the documentation or the open-source project Linorobot. Basic knowledge of electronics, software, and mechanics is required.
 
-## Community Management and Moderation
+## Community management and moderation
 
 Effective community management and moderation are essential to maintain a healthy and productive environment for collaboration. Our project welcomes contributions and feedback from the community to improve and evolve.
 
-## Community Profiles for Public Repositories
+## Community profiles for public repositories
 
 We are working on rules and suggestions to manage contributions and interactions within our repository. They include features like issue templates, pull request templates, and guidelines for contributors and will be published soon.
 
-### Accessing a Project's Community Profile
+### A project's community profile
 
 You can access the community profile of this repository by clicking on the "Community" tab on the repository's main page. This section provides all the necessary information and resources for contributors.
 
-### Adding a Code of Conduct to Your Project
+### A code of conduct 
 
 We are preparing standards for behavior within the community. Information about Code of Conduct will be added soon to a `CODE_OF_CONDUCT.md` file in the root directory. Where we will outline the expected behavior and the process for reporting violations.
 
-### Setting Guidelines for Repository Contributors
+### Guidelines for repository contributors
 
 We are working on information about the workflow, coding standards, and submission process to help contributors understand the best practices and expectations. This information will be outlined in a `CONTRIBUTING.md` file.
 
-### Adding a License to a Repository
+### License
 
 This project is licensed under the MIT License. For more info please check `LICENSE` file in the root directory with the following content:
 
