@@ -1,4 +1,4 @@
-# Affordable mobile robot for SMEs
+# Affordable mobile robot for SMEs (OpenAMR)
 
 ## Introduction
 
