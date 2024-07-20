@@ -12,21 +12,21 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 > - Mention the project at local meetups and tell your friends/colleagues
 
 <!-- omit in toc -->
-## Table of Contents
+## Table of contents
 
-- [Code of Conduct](#code-of-conduct)
-- [I Have a Question](#i-have-a-question)
-  - [I Want To Contribute](#i-want-to-contribute)
-  - [Reporting Bugs](#reporting-bugs)
-  - [Suggesting Enhancements](#suggesting-enhancements)
-  - [Your First Code Contribution](#your-first-code-contribution)
-  - [Improving The Documentation](#improving-the-documentation)
+- [Code of conduct](#code-of-conduct)
+- [I have a question](#i-have-a-question)
+  - [I want to contribute](#i-want-to-contribute)
+  - [Reporting bugs](#reporting-bugs)
+  - [Suggesting enhancements](#suggesting-enhancements)
+  - [Your first code contribution](#your-first-code-contribution)
+  - [Improving the documentation](#improving-the-documentation)
 - [Styleguides](#styleguides)
-  - [Commit Messages](#commit-messages)
-- [Join The Project Team](#join-the-project-team)
+  - [Commit messages](#commit-messages)
+- [Join the project Team](#join-the-project-team)
 
 
-## Code of Conduct
+## Code of conduct
 
 This project and everyone participating in it is governed by the
 [OpenAMR Code of Conduct](https://github.com/openAMRobot/blob//CODE_OF_CONDUCT.md).
@@ -34,7 +34,7 @@ By participating, you are expected to uphold this code. Please report unacceptab
 to <info@botshare.ai>.
 
 
-## I Have a Question
+## I have a question
 
 > If you want to ask a question, we assume that you have read the available [Documentation](https://github.com/openAMRobot/OpenAMR).
 
@@ -63,15 +63,15 @@ Depending on how large the project is, you may want to outsource the questioning
 - Forum
 -->
 
-## I Want To Contribute
+## I want to contribute
 
-> ### Legal Notice <!-- omit in toc -->
+> ### Legal notice <!-- omit in toc -->
 > When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content and that the content you contribute may be provided under the project licence.
 
-### Reporting Bugs
+### Reporting bugs
 
 <!-- omit in toc -->
-#### Before Submitting a Bug Report
+#### Before submitting a Bug report
 
 A good bug report shouldn't leave others needing to chase you up for more information. Therefore, we ask you to investigate carefully, collect information and describe the issue in detail in your report. Please complete the following steps in advance to help us fix any potential bug as fast as possible.
 
@@ -81,13 +81,13 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 - Also make sure to search the internet (including Stack Overflow) to see if users outside of the GitHub community have discussed the issue.
 - Collect information about the bug:
   - Stack trace (Traceback)
-  - OS, Platform and Version (Windows, Linux, macOS, x86, ARM)
+  - OS, platform and version (Windows, Linux, macOS, x86, ARM)
   - Version of the interpreter, compiler, SDK, runtime environment, package manager, depending on what seems relevant.
   - Possibly your input and the output
   - Can you reliably reproduce the issue? And can you also reproduce it with older versions?
 
 <!-- omit in toc -->
-#### How Do I Submit a Good Bug Report?
+#### How do I submit a good Bug report?
 
 > You must never report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to <botshare.ai@gmail.com>.
 <!-- You may add a PGP key to allow the messages to be sent encrypted as well. -->
@@ -108,12 +108,12 @@ Once it's filed:
 <!-- You might want to create an issue template for bugs and errors that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
 
 
-### Suggesting Enhancements
+### Suggesting enhancements
 
 This section guides you through submitting an enhancement suggestion for OpenAMR, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestion and find related suggestions.
 
 <!-- omit in toc -->
-#### Before Submitting an Enhancement
+#### Before submitting an enhancement
 
 - Make sure that you are using the latest version.
 - Read the [documentation](https://github.com/openAMRobot/OpenAMR) carefully and find out if the functionality is already covered, maybe by an individual configuration.
@@ -121,7 +121,7 @@ This section guides you through submitting an enhancement suggestion for OpenAMR
 - Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. If you're just targeting a minority of users, consider writing an add-on/plugin library.
 
 <!-- omit in toc -->
-#### How Do I Submit a Good Enhancement Suggestion?
+#### How Do I submit a good enhancement suggestion?
 
 Enhancement suggestions are tracked as [GitHub issues](https://github.com/openAMRobot/issues).
 
@@ -133,13 +133,13 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/openAM
 
 <!-- You might want to create an issue template for enhancement suggestions that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
 
-### Your First Code Contribution
+### Your First code contribution
 <!-- TODO
 include Setup of env, IDE and typical getting started instructions?
 
 -->
 
-### Improving The Documentation
+### Improving the documentation
 <!-- TODO
 Updating, improving and correcting the documentation
 
@@ -151,7 +151,7 @@ Updating, improving and correcting the documentation
 
 -->
 
-## Join The Project Team
+## Join the project Team
 <!-- TODO -->
 
 <!-- omit in toc -->
