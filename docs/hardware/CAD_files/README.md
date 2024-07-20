@@ -52,7 +52,7 @@ Due to GitHub's file size limitations (files larger than 25 MB are split), the f
 If you wish to contribute to the project:
 
 - **Issue reporting:** use the [ISSUE_TEMPLATE.md](https://github.com/openAMRobot/.github/blob/main/ISSUE_TEMPLATE.md) for reporting issues.
-- **Submitting pull requests:** use the [PULL_REQUEST_TEMPLATE.md](PULL_REQUEST_TEMPLATE.md) for submitting improvements or changes.
-- **Contributing guidelines:** please read the [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines.
+- **Submitting pull requests:** use the [PULL_REQUEST_TEMPLATE.md](https://github.com/openAMRobot/.github/blob/main/PULL_REQUEST_TEMPLATE.md) for submitting improvements or changes.
+- **Contributing guidelines:** please read the [CONTRIBUTING.md](https://github.com/openAMRobot/OpenAMR/blob/main/CONTRIBUTING.md) for detailed contribution guidelines.
 
 For further assistance, please refer to the repository’s main documentation or contact the repository maintainers.
