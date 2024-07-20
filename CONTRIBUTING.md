@@ -121,7 +121,7 @@ This section guides you through submitting an enhancement suggestion for OpenAMR
 - Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. If you're just targeting a minority of users, consider writing an add-on/plugin library.
 
 <!-- omit in toc -->
-#### How Do I submit a good enhancement suggestion?
+#### How do I submit a good enhancement suggestion?
 
 Enhancement suggestions are tracked as [GitHub issues](https://github.com/openAMRobot/issues).
 
@@ -133,7 +133,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/openAM
 
 <!-- You might want to create an issue template for enhancement suggestions that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
 
-### Your First code contribution
+### Your first code contribution
 <!-- TODO
 include Setup of env, IDE and typical getting started instructions?
 
@@ -146,14 +146,10 @@ Updating, improving and correcting the documentation
 -->
 
 ## Styleguides
-### Commit Messages
+### Commit messages
 <!-- TODO
 
 -->
 
 ## Join the project Team
 <!-- TODO -->
-
-<!-- omit in toc -->
-## Attribution
-This guide is based on the **contributing-gen**. [Make your own](https://github.com/bttger/contributing-gen)!
