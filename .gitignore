@@ -1,0 +1,98 @@
+# Compiled source files
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.jar
+*.war
+*.ear
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyproj
+*.venv/
+venv/
+ENV/
+env/
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ROS
+build/
+devel/
+install/
+log/
+
+# Arduino
+*.cpp.bin
+*.cpp.elff
+*.hex
+*.eep
+
+# Firmware
+*.bin
+*.elf
+*.hex
+*.map
+
+# Hardware design files
+*.bak
+*.tmp
+*.backup
+*.temp
+
+# CAD files
+*.step
+*.stl
+*.obj
+*.dxf
+
+# Config files
+*.env
+*.config
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Miscellaneous
+*.DS_Store
+*.vscode/
+*.history
+*.ipynb_checkpoints/
