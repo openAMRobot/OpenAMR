@@ -1,6 +1,6 @@
-# Code of Conduct - OpenAMR
+# Code of conduct - OpenAMR
 
-## Our Pledge
+## Our pledge
 
 In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to make participation in our project and
@@ -9,7 +9,7 @@ size, disability, ethnicity, sex characteristics, gender identity and expression
 level of experience, education, socio-economic status, nationality, personal
 appearance, race, religion, or sexual identity and orientation.
 
-## Our Standards
+## Our standards
 
 Examples of behaviour that contributes to a positive environment for our
 community include:
@@ -32,7 +32,7 @@ Examples of unacceptable behaviour include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-## Our Responsibilities
+## Our responsibilities
 
 Project maintainers are responsible for clarifying and enforcing our standards of
 acceptable behaviour and will take appropriate and fair corrective action in
@@ -41,12 +41,12 @@ threatening, offensive, or harmful.
 
 Project maintainers have the right and responsibility to remove, edit, or reject
 comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will
+not aligned to this Code of conduct, and will
 communicate reasons for moderation decisions when appropriate.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when
+This Code of conduct applies within all community spaces, and also applies when
 an individual is officially representing the community in public spaces.
 Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
@@ -61,46 +61,46 @@ All complaints will be reviewed and investigated promptly and fairly.
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
-## Enforcement Guidelines
+## Enforcement guidelines
 
 Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+the consequences for any action they deem in violation of this Code of conduct:
 
 ### 1. Correction
 
-**Community Impact**: Use of inappropriate language or other behaviour deemed
+**Community impact**: use of inappropriate language or other behaviour deemed
 unprofessional or unwelcome in the community.
 
-**Consequence**: A private, written warning from community leaders, providing
+**Consequence**: a private, written warning from community leaders, providing
 clarity around the nature of the violation and an explanation of why the
 behaviour was inappropriate. A public apology may be requested.
 
 ### 2. Warning
 
-**Community Impact**: A violation through a single incident or series
+**Community impact**: a violation through a single incident or series
 of actions.
 
-**Consequence**: A warning with consequences for continued behaviour. No
+**Consequence**: a warning with consequences for continued behaviour. No
 interaction with the people involved, including unsolicited interaction with
 those enforcing the Code of Conduct, for a specified period of time. This
 includes avoiding interactions in community spaces as well as external channels
 like social media. Violating these terms may lead to a temporary or
 permanent ban.
 
-### 3. Temporary Ban
+### 3. Temporary ban
 
-**Community Impact**: A serious violation of community standards, including
+**Community impact**: a serious violation of community standards, including
 sustained inappropriate behaviour.
 
-**Consequence**: A temporary ban from any sort of interaction or public
+**Consequence**: a temporary ban from any sort of interaction or public
 communication with the community for a specified period of time. No public or
 private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
+with those enforcing the Code of conduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
 
-### 4. Permanent Ban
+### 4. Permanent ban
 
-**Community Impact**: Demonstrating a pattern of violation of community
+**Community Impact**: demonstrating a pattern of violation of community
 standards, including sustained inappropriate behaviour, harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
