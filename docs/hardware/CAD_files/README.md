@@ -18,6 +18,8 @@ This folder includes STEP files that represent the complete design or constructi
 
 This folder contains a complete project package, including all components, fasteners, printed circuit boards, and other parts, exemplified through a disinfection robot project.
 
+**💡MMP - stands for Multipurpose Mobile Platform**
+
 - **File compatibility:** these files are designed for SolidWorks version 2017 or newer.
 
 - **Contents:** this comprehensive package includes all necessary components and models, providing a full representation of the project.
@@ -64,8 +66,6 @@ Sheet metal parts are subject to production variations. The current designs are 
 - Screws installed without lock washers should be secured with a thread lock (e.g., Loxeal 55-03).
 
 **Note:** All components are highly interconnected and their functionality is dependent on one another.
-
-## MMP - Multipurpose Mobile Platforms
 
 ## Contributing
 
