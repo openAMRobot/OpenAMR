@@ -65,6 +65,9 @@ Sheet metal parts are subject to production variations. The current designs are 
 - Riveting nuts can be installed before painting if the threaded part is protected from the coating.
 - Screws installed without lock washers should be secured with a thread lock (e.g., Loxeal 55-03).
 
+### 📜Bill of Materials (BOM) and list of assemblies, drawings, original parts 
+Comprehensive list of all assemblies and their corresponding files in the [BOM repository](https://github.com/openAMRobot/OpenAMR/tree/main/docs/hardware/BOM). It also includes details on sheet metal parts, fasteners, technological operations, and origin components.
+
 **Note:** All components are highly interconnected and their functionality is dependent on one another.
 
 ## Contributing
