@@ -8,7 +8,7 @@ This repository contains a variety of CAD drawings and 3D models in multiple for
 
 ### `STEP_full_assembly`
 
-This folder includes STEP files that represent the complete design or construction tree.
+This folder includes STEP file MMP.00.00.00.000_full_assembly.STEP that represent the complete design or construction tree.
 
 - **STEP files:** these files are compatible with various CAD programs, including SolidWorks, Catia, and AutoCAD. They adhere to the STEP (Standard for the Exchange of Product Data) format, which uses ASCII text to describe three-dimensional objects and models according to the ISO 10303 specification.
 
@@ -24,7 +24,7 @@ This folder contains a complete project package, including all components, faste
 
 - **Contents:** this comprehensive package includes all necessary components and models, providing a full representation of the project.
 
-- **Folder Naming:** the main archive is named `MMP.00.00.00.000_Multipurpose_mobile_platform`. After extracting all the files into a single folder named `MMP.00.00.00.000_Multipurpose_mobile_platform`, locate the file with all zeros in the name, `MMP.00.00.00.000`, to open the full project.
+- **Folder Naming:** the main file is named `MMP.00.00.00.000_Multipurpose_mobile_platform`. After extracting all the files from MMP.00.00.00.000_Multipurpose_mobile_platform.zip into a single folder named `MMP.00.00.00.000_Multipurpose_mobile_platform`, locate the file with all zeros in the name, `MMP.00.00.00.000`, to open the full project.
 
 ### `Production_files`
 
@@ -35,13 +35,6 @@ This folder provides production-ready files in various formats that can be used 
 - **Usage:** these files contain detailed drawings and specifications sufficient for ordering parts directly from production facilities.
 
 ## File handling instructions
-
-Due to GitHub's file size limitations (files larger than 25 MB are split), the files in this repository are divided into parts. To avoid issues when opening the packages:
-
-1. **Download archives:** download all parts of the archive for each package.
-2. **Extract files:** extract the downloaded archives into a single folder.
-
-**Note:** ensure all parts are extracted together in the same directory to maintain file structure integrity.
 
 ## Accessing and using projects
 
