@@ -47,6 +47,26 @@ Due to GitHub's file size limitations (files larger than 25 MB are split), the f
 
 - **Editing and improvements:** after opening the project, you can rename assemblies, edit, or improve the models. We encourage you to suggest improvements or report issues to the project.
 
+  ## Important notice for the sheet metal parts
+
+Sheet metal parts are subject to production variations. The current designs are based on the following coefficients and radii:
+
+- **Coefficient (K):** 0.47
+- **Sheet metal specifications:**
+  - **0.8 mm Sheet:** Radius (R) = 1.2
+  - **1.2 mm Sheet:** Radius (R) = 1.5
+  - **2.0 mm Sheet:** Radius (R) = 2.4
+
+### Post-production
+
+- Parts may be painted after bending.
+- Riveting nuts can be installed before painting if the threaded part is protected from the coating.
+- Screws installed without lock washers should be secured with a thread lock (e.g., Loxeal 55-03).
+
+**Note:** All components are highly interconnected and their functionality is dependent on one another.
+
+## MMP - Multipurpose Mobile Platforms
+
 ## Contributing
 
 If you wish to contribute to the project:
