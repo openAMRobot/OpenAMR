@@ -1,4 +1,4 @@
-# Bill of Materials (BOM) Repository
+# Bill of Materials (BOM) repository
 
 ## Overview
 
