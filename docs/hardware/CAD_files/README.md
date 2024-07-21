@@ -47,7 +47,7 @@ Due to GitHub's file size limitations (files larger than 25 MB are split), the f
 
 - **Editing and improvements:** after opening the project, you can rename assemblies, edit, or improve the models. We encourage you to suggest improvements or report issues to the project.
 
-  ## Important notice for the sheet metal parts
+## ⚠️Important notice for the sheet metal parts
 
 Sheet metal parts are subject to production variations. The current designs are based on the following coefficients and radii:
 
