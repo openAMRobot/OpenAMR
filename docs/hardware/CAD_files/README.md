@@ -6,7 +6,7 @@ This repository contains a variety of CAD drawings and 3D models in multiple for
 
 ## Folder descriptions
 
-### `STEP_full_assemblies`
+### `STEP_full_assembly`
 
 This folder includes STEP files that represent the complete design or construction tree.
 
