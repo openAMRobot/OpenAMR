@@ -49,34 +49,34 @@ var/
 *.egg
 
 # ROS
-build/
-devel/
-install/
-log/
+#build/
+#devel/
+#install/
+#log/
 
 # Arduino
-*.cpp.bin
-*.cpp.elff
-*.hex
-*.eep
+#*.cpp.bin
+#*.cpp.elff
+#*.hex
+#*.eep
 
 # Firmware
-*.bin
-*.elf
-*.hex
-*.map
+#*.bin
+#*.elf
+#*.hex
+#*.map
 
 # Hardware design files
-*.bak
-*.tmp
-*.backup
-*.temp
+#*.bak
+#*.tmp
+#*.backup
+#*.temp
 
 # CAD files
-*.step
-*.stl
-*.obj
-*.dxf
+#*.step
+#*.stl
+#*.obj
+#*.dxf
 
 # Config files
 *.env
