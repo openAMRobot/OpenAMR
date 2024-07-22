@@ -1,4 +1,4 @@
 ## Project Overview
 
-Check out this [Wheel assembly](https://youtu.be/FlsYwoiEAsk?feature=shared) for an overview of the project!
+ [Wheel assembly video](https://youtu.be/FlsYwoiEAsk?feature=shared).
 
