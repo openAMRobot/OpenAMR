@@ -29,9 +29,6 @@ Here is how the chassis design looks like:
 
 ![Mobile Robot General View](https://github.com/openAMRobot/OpenAMR/blob/main/docs/hardware/pictures/AMR_views.jpg)
 
-Here’s how the hardware architecture of the robot looks like:
-![Mobile Robot General View](https://github.com/openAMRobot/OpenAMR/blob/main/docs/hardware/pictures/HW_schema_article.jpg)
-
 ### Mechanical design and assembly
 
 1. **Downloadable resources**:
@@ -65,6 +62,10 @@ Here’s how the hardware architecture of the robot looks like:
 3. **Software setup**:
     - **Linorobot**: Open-source software package for navigation and control.
     - **UI**: Built with Flask and Java for user interaction.
+
+Here’s how the hardware architecture of the robot looks like:
+
+![Mobile Robot General View](https://github.com/openAMRobot/OpenAMR/blob/main/docs/hardware/pictures/HW_schema_article.jpg)
 
 ### Practical applications and future enhancements
 
