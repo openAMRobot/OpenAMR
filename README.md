@@ -25,6 +25,9 @@ Our project empowers you to build your own AMR using open-source designs and acc
 
 Our design is optimized for manufacturability, requiring only basic technologies such as laser cutting, bending, turning (optional), and 3D printing (optional). Using mostly 2mm thick metal sheets, the design is robust yet simple to produce, allowing one person to build the robot in just one day if every part is ready.
 
+Here is how the chassis design looks like:
+![Mobile Robot General View](https://github.com/openAMRobot/OpenAMR/blob/main/docs/hardware/pictures/AMR_views.jpg)
+
 ### Mechanical design and assembly
 
 1. **Downloadable resources**:
