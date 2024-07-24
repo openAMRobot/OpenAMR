@@ -62,7 +62,15 @@ Here is how the chassis design looks like:
 3. **Software setup**:
     - **Linorobot**: Open-source software package for navigation and control.
     - **UI**: Built with Flask and Java for user interaction.
+    - 
+To get all files you should do the next commands:
 
+        git clone https://github.com/openAMRobot/OpenAMR.git
+  
+        cd openAMR
+
+        git submodule update --init --recursive
+      
 Here’s how the hardware architecture of the robot looks like:
 
 ![Mobile Robot General View](https://github.com/openAMRobot/OpenAMR/blob/main/docs/hardware/pictures/HW_schema_article.jpg)
