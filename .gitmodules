@@ -1,0 +1,6 @@
+[submodule "docs/software/ROS/OpenAMR_UI_package"]
+	path = docs/software/ROS/OpenAMR_UI_package
+	url = https://github.com/openAMRobot/OpenAMR_UI_package.git
+[submodule "docs/software/UI/OpenAMR_UI_dev"]
+	path = docs/software/UI/OpenAMR_UI_dev
+	url = https://github.com/openAMRobot/OpenAMR_UI_dev.git
