@@ -70,6 +70,8 @@ To get all files you should do the next commands:
         cd openAMR
 
         git submodule update --init --recursive
+
+The **whole tutorial** about software installation is sectioned into different topics. Click [here](https://github.com/openAMRobot/OpenAMR/wiki/Getting-started) here to get started.
       
 Here’s how the hardware architecture of the robot looks like:
 
