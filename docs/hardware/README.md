@@ -12,4 +12,5 @@ For guidance on assembling the wheel, please refer to the video demonstrating th
 [Wheel Assembly Video](https://youtu.be/FlsYwoiEAsk?feature=shared).
 
 For guidance on connecting the ZD BLDC motor and ZD driver, please refer to the picture below:
+
 ![ZD BLDC motor and driver wiring diagram](https://github.com/openAMRobot/OpenAMR/blob/main/docs/hardware/pictures/ZDmotor_driver.jpg)
