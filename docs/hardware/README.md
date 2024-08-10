@@ -8,9 +8,9 @@ This folder contains detailed resources on the chassis, mechanics, assembly, and
 - **datasheets**: Technical datasheets for the components, providing specifications and detailed information.
 - **schematics**: Electrical schematics outlining the circuitry and connections (refer to Linorobot HW).
 
-For guidance on assembling the wheel, please refer to the video demonstrating the correct sequence:
+### For guidance on assembling the wheel, please refer to the video demonstrating the correct sequence:
 [Wheel Assembly Video](https://youtu.be/FlsYwoiEAsk?feature=shared).
 
-For guidance on connecting the ZD BLDC motor and ZD driver, please refer to the picture below:
+### For guidance on connecting the ZD BLDC motor and ZD driver, please refer to the picture below:
 
 ![ZD BLDC motor and driver wiring diagram](https://github.com/openAMRobot/OpenAMR/blob/main/docs/hardware/pictures/ZDmotor_driver.jpg)
