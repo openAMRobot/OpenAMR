@@ -132,12 +132,11 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/openAM
 - **Explain why this enhancement would be useful** to most OpenAMR users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
 
 ### Support Our Project
-Help us bring innovative AI & robotics education to the next generation! Your support enables us to enhance the curriculum and develop cutting-edge projects.
+Help us bring innovative AI & robotics project to the next level!
 
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/BotshareAI)
 
 Every contribution, big or small, helps us grow. Thank you for your support!
-
 
 <!-- You might want to create an issue template for enhancement suggestions that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
 
