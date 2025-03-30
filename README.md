@@ -115,3 +115,10 @@ We are working on information about the workflow, coding standards, and submissi
 
 This project is licensed under the MIT License. For more info please check `LICENSE` file in the root directory.
 
+### Support Our Project
+Help us bring innovative AI & robotics education to the next generation! Your support enables us to enhance the curriculum and develop cutting-edge projects.
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/BotshareAI)
+
+Every contribution, big or small, helps us grow. Thank you for your support!
+
