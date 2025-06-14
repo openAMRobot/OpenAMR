@@ -822,17 +822,13 @@ Side view - Robot climbing a slope
 
 (Gravity force m×g)
 
-↓
-
-+\-\-\--+
-
-/ \\
-
-/ ROBOT \\
-
-+\-\-\-\-\-\-\-\-\--+
-
-θ (slope angle)
+  (Gravity force m×g)
+               ↓
+            +----+
+           /      \
+          /  ROBOT \
+         +----------+
+         θ (slope angle)
 
 Forces:
 
@@ -875,7 +871,7 @@ Side view of one drive wheel
                                 [Ground]    
 
 
-Forces:
+**Forces:**
 
 \- Torque T = F × r
 
@@ -885,7 +881,7 @@ Forces:
 
 \- Ground applies reaction force to move robot forward.
 
-How it works:
+**How it works:**
 
 \- Motor produces torque T.
 
@@ -893,9 +889,9 @@ How it works:
 
 \- Wheel transfers force to ground, robot moves.
 
-Bigger radius → More force needed.
+*Bigger radius → More force needed.*
 
-Bigger force → More torque needed.
+*Bigger force → More torque needed.*
 
 **Key points**:
 
