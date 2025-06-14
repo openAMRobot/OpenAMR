@@ -50,7 +50,7 @@ The following components are used in the assemblies:
   - 4x4x25 DIN 6885-UNI 6604 (formerly ISO 773)
   - 8x7x28 DIN 6885-UNI 6604 (formerly ISO 773)
 - **Screwed spacer sleeve:** TFF-M3/25 FIX&FASTEN
-- **BLDC Motor:** Z55BLD300-24GU-30S/5GU 18KV
+- **BLDC Motor:** Z4BLD60-24GN-30S/4GN 25K 
 - **Laser range scanner:** RPLIDAR A1-A1M8
 - **Camera module:** NVision Assem
 - **Proximity sensor:** E18-D80NK
