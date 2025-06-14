@@ -865,19 +865,15 @@ F_total = F_flat + F_slope
 
 ## Diagram 3: Torque generation at the wheel
 
-Side view of one drive wheel
+Side view of one drive wheel    
 
-\[Motor Shaft\]\-\-\--\>\[Gearbox\]\-\-\--\>\[Wheel\]
+        [Motor Shaft]---->[Gearbox]---->[Wheel]    
+                                 |    
+                                 v    
+                                (r)    
+                                 |    
+                                [Ground]    
 
-\|
-
-v
-
-\(r\)
-
-\|
-
-\[Ground\]
 
 Forces:
 
@@ -916,6 +912,4 @@ Bigger force → More torque needed.
 | Diagram 2   | Uphill motion           | F_flat + F_slope must be overcome. |
 | Diagram 3   | Wheel torque generation | T = F × r relationship explained.  |
 
-[[What is a Servo Motor and How it
-Works?]{.underline}](https://youtu.be/ditS0a28Sko)
 
