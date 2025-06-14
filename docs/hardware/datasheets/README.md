@@ -820,15 +820,13 @@ Forces:
 
 Side view - Robot climbing a slope
 
-(Gravity force m×g)
-
-  (Gravity force m×g)
-               ↓
-            +----+
-           /      \
-          /  ROBOT \
-         +----------+
-         θ (slope angle)
+      (Gravity force m×g)    
+               ↓    
+            +----+    
+           /      \    
+          /  ROBOT \    
+         +----------+    
+        θ (slope angle)    
 
 Forces:
 
