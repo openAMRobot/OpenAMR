@@ -776,31 +776,20 @@ With these advanced calculations, definitions, and considerations:
 
 ## Diagram 1: Forces on flat ground
 
-Top view - Robot moving forward on flat ground
-
-(Front of robot)
-
-↑
-
-\| (Force F_flat = m × a)
-
-\|
-
-+\-\-\--+\-\-\--+
-
-\| \| \-\-\-\--\> Direction of motion
-
-\| ROBOT \|
-
-\| \|
-
-+\-\-\--+\-\-\--+
-
-\|
-
-v
-
-(Rear of robot)
+Top view - Robot moving forward on flat ground    
+    
+         (Front of robot)    
+                ↑    
+                |    (Force F_flat = m × a)    
+                |    
+           +----+----+    
+           |         |    ----->   Direction of motion    
+           |  ROBOT  |    
+           |         |    
+           +----+----+    
+                |    
+                v    
+          (Rear of robot)    
 
 Forces:
 
