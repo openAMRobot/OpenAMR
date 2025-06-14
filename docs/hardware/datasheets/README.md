@@ -303,8 +303,8 @@ T = 22.5 × 0.1
 T = 2.25 Nm
 
 **Meaning**:  
-[Each wheel must apply at least **2.25 Nm** of torque to accelerate the
-robot at 0.5 m/s².]{.mark}
+Each wheel must apply at least **2.25 Nm** of torque to accelerate the
+robot at 0.5 m/s².
 
 ## 3. Power consumption calculation {#power-consumption-calculation}
 
@@ -360,6 +360,213 @@ F_slope = 45 × 9.81 × sin(10°) ≈ 45 × 9.81 × 0.1736 ≈ 76.6 N
 **Meaning**:  
 An additional **76.6 N** must be overcome by the motors when climbing a
 10° incline.
+
+### Additional force on slope, torque, and power calculation
+
+#### 1. What does \"an additional 76.6 N must be overcome\" mean? {#what-does-an-additional-76.6-n-must-be-overcome-mean}
+
+When a robot moves **on flat ground**, the motors must overcome:
+
+- **Inertia** (mass resisting change of motion).
+
+- **Rolling resistance** (small friction at wheels).
+
+- **Small air resistance** (negligible at low robot speeds).
+
+On flat ground, the **required force to accelerate** the robot is:
+
+F_flat = m × a
+
+Where:
+
+- m = mass (kilograms, kg)
+
+- a = acceleration (meters per second squared, m/s²)
+
+Given:
+
+- m = 45 kg
+
+- a = 0.5 m/s²
+
+Calculation:
+
+F_flat = 45 × 0.5 = 22.5 N
+
+Thus, **on a flat surface**, **22.5 N** is needed to start or accelerate
+the robot.
+
+When **climbing a slope** (an inclined surface):
+
+- Gravity exerts an additional **downward force** along the slope.
+
+- This additional force must be **overcome by the motors** to prevent
+  > rolling backwards.
+
+The **slope force** is:
+
+F_slope = m × g × sin(θ)
+
+Where:
+
+- g = 9.81 m/s² (gravitational acceleration),
+
+- θ = slope angle in degrees.
+
+Given:
+
+- θ = 10°
+
+- sin(10°) ≈ 0.1736
+
+Calculation:
+
+F_slope = 45 × 9.81 × 0.1736
+
+F_slope ≈ 76.6 N
+
+#### 2. Total force needed when climbing {#total-force-needed-when-climbing}
+
+The **total force** the robot motors must produce when climbing is the
+**sum** of:
+
+- The normal force to accelerate horizontally (F_flat),
+
+- The additional force to overcome gravity (F_slope).
+
+Thus:
+
+F_total = F_flat + F_slope
+
+Substituting:
+
+F_total = 22.5 + 76.6
+
+F_total ≈ 99.1 N
+
+#### 3. Why \"an additional 76.6 N\"? {#why-an-additional-76.6-n}
+
+**Meaning**:
+
+- Motors already must produce **22.5 N** to accelerate the robot
+  > horizontally.
+
+- **When climbing**, they must generate an **extra 76.6 N** to resist
+  > the gravitational pull downhill.
+
+Thus, a total of **99.1 N** must be overcome to climb while
+accelerating.
+
+#### 4. Torque required for slope climbing {#torque-required-for-slope-climbing}
+
+**Definition: Torque**
+
+**Torque** is a measure of the rotational force applied around an axis
+(for example, the wheel axle).
+
+**Formula**:
+
+T = F × r
+
+Where:
+
+- T = Torque (newton-meters, Nm)
+
+- F = Force (newtons, N)
+
+- r = Wheel radius (meters, m)
+
+Given:
+
+- F_total = 99.1 N
+
+- r = 0.1 m
+
+Calculation:
+
+T = 99.1 × 0.1
+
+T ≈ 9.91 Nm
+
+**Differential drive: two motors**
+
+In a **differential drive** system:
+
+- Two wheels share the load.
+
+- Each wheel must provide **half** the total torque.
+
+Thus, **torque per wheel**:
+
+T_per_wheel = T_total / 2
+
+Substituting:
+
+T_per_wheel = 9.91 / 2
+
+T_per_wheel ≈ 4.955 Nm
+
+#### 5. Power required for slope climbing {#power-required-for-slope-climbing}
+
+**Definition: Power**
+
+**Power** is the rate at which work is done or energy is transferred.
+
+**Formula**:
+
+P = F × v
+
+Where:
+
+- P = Power (watts, W)
+
+- F = Force (newtons, N)
+
+- v = Velocity (meters per second, m/s)
+
+Assume target velocity:
+
+- v = 1.26 m/s (as given earlier)
+
+Calculation:
+
+P = 99.1 × 1.26
+
+P ≈ 124.9 W
+
+Thus, total **mechanical power required** to climb at 1.26 m/s is
+**about 125 W**.
+
+If divided equally between two motors:
+
+P_per_motor ≈ 62.45 W
+
+#### 6. Summary table {#summary-table}
+
+| **Parameter**                 | **Value** | **Explanation**                          |
+|-------------------------------|-----------|------------------------------------------|
+| Force on flat ground          | 22.5 N    | Force to accelerate horizontally.        |
+| Additional force on 10° slope | 76.6 N    | Extra gravitational force to overcome.   |
+| Total force to climb          | 99.1 N    | Combined force needed.                   |
+| Total torque required         | 9.91 Nm   | Torque needed from both wheels combined. |
+| Torque per wheel              | 4.955 Nm  | Torque needed from each wheel.           |
+| Total power required          | 124.9 W   | Power needed to maintain speed uphill.   |
+| Power per motor               | 62.45 W   | Power per wheel motor.                   |
+
+#### 7. Final explanation {#final-explanation}
+
+- On flat ground, motors must provide **only inertia-based force**.
+
+- On slopes, **gravity adds extra load**.
+
+- Motors must be sized not only for flat motion but also for
+  > **worst-case scenarios** like climbing.
+
+- Correct calculation ensures the robot **can climb safely** without
+  > overloading motors or batteries
+
+
+
 
 <table>
 <colgroup>
@@ -809,13 +1016,13 @@ Forces:
 
 Side view - Robot climbing a slope
 
-      (Gravity force m×g)    
-               ↓    
-            +----+    
-           /      \    
-          /  ROBOT \    
-         +----------+    
-        θ (slope angle)    
+              (Gravity force m×g)    
+                       ↓    
+                    +----+    
+                   /      \    
+                  /  ROBOT \    
+                 +----------+    
+                θ (slope angle)    
 
 Forces:
 
