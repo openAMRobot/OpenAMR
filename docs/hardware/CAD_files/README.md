@@ -68,6 +68,8 @@ Comprehensive list of all assemblies and their corresponding files in the [BOM r
 If you wish to contribute to the project:
 
 [![Support on Patreon - Supporter Tier – €5/month](https://img.shields.io/badge/Support%20on-Patreon-orange)](https://www.patreon.com/cw/Botshare)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/BotshareAI)
+[![Donate on GitHub](https://img.shields.io/badge/Sponsor%20on-GitHub-pink?logo=github-sponsors)](https://github.com/sponsors/openAMRobot)
 
 - **Issue reporting:** use the [ISSUE_TEMPLATE.md](https://github.com/openAMRobot/.github/blob/main/ISSUE_TEMPLATE.md) for reporting issues.
 - **Submitting pull requests:** use the [PULL_REQUEST_TEMPLATE.md](https://github.com/openAMRobot/.github/blob/main/PULL_REQUEST_TEMPLATE.md) for submitting improvements or changes.
