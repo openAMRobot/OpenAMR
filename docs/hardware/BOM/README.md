@@ -60,3 +60,7 @@ The following components are used in the assemblies:
 ## References
 
 - Ensure that all parts and operations comply with the specified requirements to guarantee optimal performance and compatibility.
+
+[![Support on Patreon - Supporter Tier – €5/month](https://img.shields.io/badge/Support%20on-Patreon-orange)](https://www.patreon.com/cw/Botshare)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/BotshareAI)
+[![Donate on GitHub](https://img.shields.io/badge/Sponsor%20on-GitHub-pink?logo=github-sponsors)](https://github.com/sponsors/openAMRobot)
