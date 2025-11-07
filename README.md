@@ -2,9 +2,10 @@
 
 ## Introduction
 
-Small and Medium Enterprises (SMEs) across various sectors can greatly benefit from Autonomous Mobile Robots (AMRs). In warehouses and distribution centers, AMRs automate goods movement and order fulfillment, optimizing logistics with a goods-to-person approach. Manufacturing plants enhance their production workflow through efficient material transport and logistics. Small family farms and greenhouses utilize AMRs for moving crops, feed, and equipment, improving operational efficiency.
+SMEs across multiple industries can significantly enhance their operations through the adoption of Collaborative Dual-Arm Autonomous Mobile Robots. In warehouses and distribution centers, such robots streamline goods movement and order fulfillment by combining autonomous navigation with dexterous dual-arm manipulation, enabling advanced goods-to-person workflows and reducing manual handling. In manufacturing environments, they improve production efficiency by autonomously transporting materials between workstations and performing basic assembly or handling tasks. 
+For last-mile logistics, including courier, express, parcel (CEP), and grocery delivery, dual-arm AMRs further boost operational efficiency by automating repetitive loading, sorting, and delivery operations.
 
-Our project empowers you to build your own AMR using open-source designs and accessible manufacturing methods. This guide provides detailed drawings, 3D models, Bill of Materials (BOM), hardware architecture, navigation software, and user interface packages. Utilize straightforward manufacturing technologies to integrate advanced automation seamlessly into your business operations.
+Our project empowers you to build your own AMR using open-source designs and accessible manufacturing methods. This guide provides detailed drawings, 3D models, Bill of Materials (BOM), hardware architecture, navigation software, and user interface packages. Utilize straightforward manufacturing technologies to learn and integrate advanced automation seamlessly into your business operations.
 
 [![Support on Patreon - Supporter Tier – €5/month](https://img.shields.io/badge/Support%20on-Patreon-orange)](https://www.patreon.com/cw/Botshare)
 
