@@ -6,6 +6,8 @@ Small and Medium Enterprises (SMEs) across various sectors can greatly benefit f
 
 Our project empowers you to build your own AMR using open-source designs and accessible manufacturing methods. This guide provides detailed drawings, 3D models, Bill of Materials (BOM), hardware architecture, navigation software, and user interface packages. Utilize straightforward manufacturing technologies to integrate advanced automation seamlessly into your business operations.
 
+[![Support on Patreon - Supporter Tier – €5/month](https://img.shields.io/badge/Support%20on-Patreon-orange)](https://www.patreon.com/cw/Botshare)
+
 ## Key features
 
 - **Navigation**: LIDAR/SLAM
