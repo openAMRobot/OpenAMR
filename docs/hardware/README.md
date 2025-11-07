@@ -16,4 +16,5 @@ This folder contains detailed resources on the chassis, mechanics, assembly, and
 ![ZD BLDC motor and driver wiring diagram](https://github.com/openAMRobot/OpenAMR/blob/main/docs/hardware/pictures/ZDmotor_driver.jpg)
 
 [![Support on Patreon - Supporter Tier – €5/month](https://img.shields.io/badge/Support%20on-Patreon-orange)](https://www.patreon.com/cw/Botshare)
-
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/BotshareAI)
+[![Donate on GitHub](https://img.shields.io/badge/Sponsor%20on-GitHub-pink?logo=github-sponsors)](https://github.com/sponsors/openAMRobot)
