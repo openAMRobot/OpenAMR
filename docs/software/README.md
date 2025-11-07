@@ -24,3 +24,5 @@ This project provides a comprehensive solution for controlling a robot through a
     *   This folder contains the firmware code specifically designed for the different boards (like teensy or arduino) that controls the robot's hardware.
         
     *   It's the embedded software that translates commands received from the ROS package into actions for the robot's motors, sensors, and other components.
+ 
+    [![Support on Patreon - Supporter Tier – €5/month](https://img.shields.io/badge/Support%20on-Patreon-orange)](https://www.patreon.com/cw/Botshare)
