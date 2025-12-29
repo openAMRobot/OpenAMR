@@ -1,0 +1,10 @@
+repositories:
+  OpenAMRobot_docking:
+    type: git
+    url: https://github.com/openAMRobot/OpenAMRobot_docking.git
+    version: main
+
+  openamr_ui:
+    type: git
+    url: https://github.com/openAMRobot/OpenAMR_UI_package.git
+    version: jazzy-dev
