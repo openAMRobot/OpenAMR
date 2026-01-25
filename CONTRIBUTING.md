@@ -159,4 +159,15 @@ Updating, improving and correcting the documentation
 -->
 
 ## Join the project Team
-- TODO -->
+
+### Maintainers
+
+This repository is maintained by the OpenAMRobot team.
+
+Current maintainers:
+- @Mobius-Line — scope: ROS 2 stack, simulation, bringup
+
+Maintainers are responsible for:
+- reviewing pull requests in their scope
+- maintaining code quality and consistency
+- helping contributors with architectural questions
