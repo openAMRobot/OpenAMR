@@ -120,7 +120,7 @@ We are working on information about the workflow, coding standards, and submissi
 
 ### License
 
-This project is licensed under the MIT License. For more info please check `LICENSE` file in the root directory.
+This project is licensed under the MIT License. For more info please check `LICENSE` [LICENSE](https://github.com/openAMRobot/OpenAMR/blob/main/LICENSE) file in the root directory.
 
 ### Support Our Project
 Help us bring innovative AI & robotics project to the next level!
