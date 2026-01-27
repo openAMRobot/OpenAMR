@@ -138,25 +138,71 @@ Help us bring innovative AI & robotics project to the next level!
 
 Every contribution, big or small, helps us grow. Thank you for your support!
 
-<!-- You might want to create an issue template for enhancement suggestions that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
+# Contributing to OpenAMR
 
-### Your first code contribution
-- TODO
-include Setup of env, IDE and typical getting started instructions?
+Thank you for your interest in contributing to **OpenAMR**.
 
--->
+We welcome contributions from engineers, educators, researchers, and students.
 
-### Improving the documentation
-- TODO
-Updating, improving and correcting the documentation
+## Ways to Contribute
 
--->
+You can contribute by:
+- Reporting bugs or issues
+- Suggesting improvements or new features
+- Writing or improving documentation
+- Submitting code, hardware designs, or examples
+- Improving educational materials
 
-## Styleguides
-### Commit messages
-- TODO
+No contribution is too small.
 
--->
+## Contribution Workflow
+
+1. Fork the repository  
+2. Create a feature branch (`feature/your-feature-name`)  
+3. Make your changes  
+4. Commit your work with clear commit messages  
+5. Open a Pull Request  
+
+Please describe **what you changed and why**.
+
+## Code and Documentation Standards
+
+- Keep code readable and well-documented
+- Follow the existing project structure
+- Add comments where logic is non-obvious
+- Update documentation when behavior changes
+
+## Recognition and Visibility
+
+We value and respect contributors.
+
+By contributing to OpenAMR:
+- Your name and GitHub profile remain visible in commits and pull requests
+- You may be listed in `CONTRIBUTORS.md`
+- Significant contributors may be invited to become Maintainers
+- Contributions may be mentioned in release notes or project updates
+
+We do **not** anonymize or hide contributions.
+
+## Legal Notice for Contributions and Maintainers
+
+By submitting a pull request, you confirm that:
+
+- You have the right to submit the contributed work
+- Your contribution is original or properly licensed
+- You agree to license your contribution under the **MIT License**
+- You grant the OpenAMRobot organization the right to use, modify, and distribute your contribution as part of the OpenAMR project
+
+If you do not agree with these terms, please do not submit a contribution.
+
+## Questions
+
+If you are unsure how to contribute or have questions:
+- Open an issue
+- Start a discussion
+- Ask in an existing pull request
+
+We are happy to help.
 
 ## Join the project Team
 
