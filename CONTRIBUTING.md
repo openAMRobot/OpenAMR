@@ -210,9 +210,6 @@ We are happy to help.
 
 This repository is maintained by the OpenAMRobot team.
 
-Current maintainers:
-- [Mobius-Line](https://github.com/Mobius-Line) — scope: ROS 2 stack, simulation, bringup
-
 Maintainers are responsible for:
 - reviewing pull requests in their scope
 - maintaining code quality and consistency
