@@ -57,9 +57,107 @@ The following components are used in the assemblies:
 - **US sensor:** JSN-SR04T
 - **LED module:** 3 LED RGB Module 0.72W SWP
 
-## References
+__________________________________________________________
 
-- Ensure that all parts and operations comply with the specified requirements to guarantee optimal performance and compatibility.
+# OpenAMR – Preliminary Electronics Bill of Materials (BOM)
+
+## Overview
+
+This Bill of Materials preliminary defines the electronics used in the OpenAMR development platform.  
+The system follows a two-layer architecture:
+
+- **High-level control**: Raspberry Pi 5 (ROS2, navigation, perception, UI)  
+- **Real-time control**: Teensy 4.0 (motor control, encoders, IMU)  
+
+The setup is designed for differential drive mobile robot development and software validation.
+
+---
+
+## Core Computing
+
+| Item | Model | Qty | Description |
+|------|------|-----|------------|
+| Main Computer | Raspberry Pi 5 (8GB) | 1 | High-level controller running ROS2, SLAM, navigation, and UI |
+| Microcontroller | Teensy 4.0 | 1 | Real-time controller for motors, sensors, and low-level logic |
+| Communication | USB cable (USB-A ↔ Micro USB / USB-C) | 1 | Serial communication between Raspberry Pi and Teensy |
+
+---
+
+## Drive System
+
+| Item | Model | Qty | Description |
+|------|------|-----|------------|
+| BLDC Motor | ZDBLD60-24GN-30S | 2 | 24V BLDC motor for differential drive |
+| Gearbox | 4GN 25K | 2 | Gear reduction for torque increase |
+| Motor Driver | ZBLD-C20-120L2R | 2 | BLDC motor driver (PWM speed control, digital direction control) |
+
+---
+
+## Feedback Sensors
+
+| Item | Model | Qty | Description |
+|------|------|-----|------------|
+| Magnetic Encoder | AS5040 | 2 | Wheel position sensing for odometry (Quadrature (A/B) or SPI interface) |
+| IMU | MPU6050 | 1 | 6-axis inertial measurement unit (accelerometer + gyroscope, I2C) |
+
+---
+
+## Perception Sensors
+
+| Item | Model | Qty | Description |
+|------|------|-----|------------|
+| LiDAR | RPLIDAR A1 | 1 | 2D laser scanner for SLAM and obstacle detection (USB) |
+| Camera | Raspberry Pi Camera Module / Arducam IMX219 | 1 | Vision sensor for docking and computer vision tasks (CSI interface) |
+
+---
+
+## Power System
+
+| Item | Model | Qty | Description |
+|------|------|-----|------------|
+| Battery | 24V Li-ion / LiFePO4 pack | 1 | Main power source for motors and electronics |
+| DC-DC Converter | LM2596 Buck Converter (24V → 5V, ≥5A) | 1 | Power supply for Raspberry Pi |
+| DC-DC Converter | DROK 24V → 5V/12V Step-Down Module | 1 | Power supply for sensors and auxiliary electronics |
+| Protection | Inline fuse (rated above motor current) | 1 | Overcurrent protection on main power line |
+| Safety | Emergency stop switch | 1 | Manual power cutoff for safety |
+
+---
+
+## Interfaces and Integration
+
+| Item | Model | Qty | Description |
+|------|------|-----|------------|
+| Prototyping Board | Breadboard / Perfboard | 1 | Temporary wiring platform (used until custom PCB is developed) |
+| Power Distribution | Terminal blocks / distribution bus | 1 set | Power routing for 24V and low-voltage lines |
+| Wiring | Motor cables, signal wires, connectors | 1 set | Electrical connections between components |
+
+---
+
+## Alternative Drive Option (ZL Tech)
+
+| Item | Model | Qty | Description |
+|------|------|-----|------------|
+| Hub Motor | ZLLG80ASM250-L | 2 | Integrated BLDC motor with built-in encoder |
+| Driver | ZLAC8015D | 1–2 | Motor controller with RS485/CAN interface |
+
+---
+
+## System Interfaces Summary
+
+- Raspberry Pi ↔ Teensy: USB Serial  
+- Teensy ↔ Motor Drivers: PWM (speed) + Digital IO (direction)  
+- Teensy ↔ Encoders: Quadrature (A/B) or SPI interface  
+- Teensy ↔ IMU: I2C  
+- Raspberry Pi ↔ LiDAR: USB  
+- Raspberry Pi ↔ Camera: CSI  
+
+---
+
+## Notes
+
+- The system is designed for modular expansion and hardware replacement.  
+- Breadboard or perfboard is used for initial prototyping before designing a custom carrier PCB.  
+- All components are selected to support ROS2-based mobile robotics development.  
 
 [![Support on Patreon - Supporter Tier – €5/month](https://img.shields.io/badge/Support%20on-Patreon-orange)](https://www.patreon.com/cw/Botshare)
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/BotshareAI)
