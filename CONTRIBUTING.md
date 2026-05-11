@@ -31,7 +31,7 @@ All types of contributions are encouraged and valued. See the [Table of contents
 This project and everyone participating in it is governed by the
 [OpenAMR Code of Conduct](https://github.com/openAMRobot/blob/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior
-to <info@botshare.ai>.
+to [Send Email](mailto:bothsare.ai@gmail.com).
 
 
 ## I have a question
