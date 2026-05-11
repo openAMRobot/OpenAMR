@@ -29,7 +29,7 @@ All types of contributions are encouraged and valued. See the [Table of contents
 ## Code of conduct
 
 This project and everyone participating in it is governed by the
-[OpenAMR Code of Conduct](https://github.com/openAMRobot/blob//CODE_OF_CONDUCT.md).
+[OpenAMR Code of Conduct](https://github.com/openAMRobot/blob/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior
 to <info@botshare.ai>.
 
@@ -85,6 +85,7 @@ A good bug report shouldn't leave others needing to chase you up for more inform
   - Version of the interpreter, compiler, SDK, runtime environment, package manager, depending on what seems relevant.
   - Possibly your input and the output
   - Can you reliably reproduce the issue? And can you also reproduce it with older versions?
+ To report bugs or other issues: [Send Email](mailto:info@bothsare.ai)
 
 <!-- omit in toc -->
 #### How do I submit a good Bug report?
@@ -147,7 +148,7 @@ We welcome contributions from engineers, educators, researchers, and students.
 ## Ways to Contribute
 
 You can contribute by:
-- Reporting bugs or issues
+- Reporting bugs or issues [Send Email](mailto:info@botshare.ai)
 - Suggesting improvements or new features
 - Writing or improving documentation
 - Submitting code, hardware designs, or examples
