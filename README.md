@@ -139,7 +139,23 @@ This project is licensed under the MIT License. For more info please check `LICE
 ### Support Our Project
 Help us bring innovative AI & robotics project to the next level!
 
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/BotshareAI)
+## Support OpenAMRobot
+
+Support open-source robotics, ROS2 development, AI robotics education, Dual-arm mobile robot research.
+
+### Monthly subscriptions
+
+| Tier | Price | Link |
+|---|---:|---|
+| Community | €19/month | [Subscribe](STRIPE_LINK_COMMUNITY) |
+| Builder | €79/month | [Subscribe](STRIPE_LINK_BUILDER) |
+| Pro Support | €299/month | [Subscribe](STRIPE_LINK_PRO_SUPPORT) |
+| Startup Support | €750/month | [Subscribe](STRIPE_LINK_STARTUP_SUPPORT) |
+| Lab Support | €1,500/month | [Subscribe](STRIPE_LINK_LAB_SUPPORT) |
+
+GitHub Sponsors: https://github.com/sponsors/openAMRobot
+
+Every contribution, big or small, helps us grow. Thank you for your support!
 
 Every contribution, big or small, helps us grow. Thank you for your support!
 
