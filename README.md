@@ -9,9 +9,23 @@ For last-mile logistics, including courier, express, parcel (CEP), and grocery d
 
 Our project empowers you to build your own AMR using open-source designs and accessible manufacturing methods. This guide provides detailed drawings, 3D models, Bill of Materials (BOM), hardware architecture, navigation software, and user interface packages. Utilize straightforward manufacturing technologies to learn and integrate advanced automation seamlessly into your business operations.
 
-[![Support on Patreon - Supporter Tier – €5/month](https://img.shields.io/badge/Support%20on-Patreon-orange)](https://www.patreon.com/cw/Botshare)
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/BotshareAI)
-[![Donate on GitHub](https://img.shields.io/badge/Sponsor%20on-GitHub-pink?logo=github-sponsors)](https://github.com/sponsors/openAMRobot)
+## Support OpenAMRobot
+
+Support open-source robotics, ROS2 development, AI robotics education, Dual-arm mobile robot research.
+
+### Monthly subscriptions
+
+| Tier | Price | Link |
+|---|---:|---|
+| Community | €19/month | [Subscribe](STRIPE_LINK_COMMUNITY) |
+| Builder | €79/month | [Subscribe](STRIPE_LINK_BUILDER) |
+| Pro Support | €299/month | [Subscribe](STRIPE_LINK_PRO_SUPPORT) |
+| Startup Support | €750/month | [Subscribe](STRIPE_LINK_STARTUP_SUPPORT) |
+| Lab Support | €1,500/month | [Subscribe](STRIPE_LINK_LAB_SUPPORT) |
+
+GitHub Sponsors: https://github.com/sponsors/openAMRobot
+
+Every contribution, big or small, helps us grow. Thank you for your support!
 
 ## Key features
 
