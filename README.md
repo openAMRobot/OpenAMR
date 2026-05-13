@@ -1,5 +1,51 @@
 # Affordable dual-arm mobile robot for SMEs (OpenAMRobot)
 
+# OpenAMRobot Ecosystem
+
+OpenAMRobot is transitioning from a monolithic repository structure into a modular robotics ecosystem.
+
+## Core Repositories
+
+### Software
+
+- openamr-platform-sw
+
+ROS 2 software, simulation, navigation, docking, drivers, and perception.
+
+### Firmware
+
+- openamr-platform-fw
+
+Embedded firmware and low-level microcontroller systems.
+
+### Hardware
+
+- openamr-platform-hw
+
+CAD, chassis, electrical systems, BOMs, and manufacturing files.
+
+### Interfaces
+
+- openamrobot-interfaces
+
+ROS 2 messages, services, actions, and shared schemas.
+
+### Communication
+
+- openamrobot-comm
+
+APIs, protocols, middleware, telemetry, and interoperability.
+
+### Documentation
+
+- openamrobot-docs
+
+Architecture, onboarding, tutorials, safety, and compatibility documentation.
+
+## Legacy Status
+
+This repository remains as a historical/community repository and migration hub while development transitions into the modular architecture.
+
 ## Introduction
 
 SMEs across multiple industries can significantly enhance their operations through the adoption of Collaborative Dual-Arm Autonomous Mobile Robots. 
