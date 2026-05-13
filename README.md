@@ -11,12 +11,25 @@
 >
 > | Repository | Purpose |
 > |---|---|
-> | `openamr-platform-sw` | ROS 2 software, simulation, navigation, docking, drivers, and perception |
-> | `openamr-platform-fw` | Embedded firmware and low-level microcontroller systems |
-> | `openamr-platform-hw` | CAD, chassis, electrical systems, BOMs, and manufacturing files |
-> | `openamrobot-interfaces` | ROS 2 messages, services, actions, and shared schemas |
-> | `openamrobot-comm` | APIs, protocols, middleware, telemetry, and interoperability |
-> | `openamrobot-docs` | Architecture, onboarding, tutorials, safety, and compatibility documentation |
+> | `openamr-platform-sw` | ROS 2 software, simulation, navigation, docking, drivers, perception, and robot bringup |
+> | `openamr-platform-fw` | Embedded firmware, low-level microcontroller systems, motor interfaces, and hardware communication |
+> | `openamr-platform-hw` | CAD, chassis, electrical systems, BOMs, manufacturing files, and mechatronics |
+> | `openamrobot-interfaces` | ROS 2 messages, services, actions, shared schemas, and interface contracts |
+> | `openamrobot-comm` | APIs, middleware, telemetry, transport protocols, interoperability, and fleet communication |
+> | `openamrobot-ui` | Operator interfaces, dashboards, visualization tools, and user-facing applications |
+> | `openamrobot-docs` | Architecture, onboarding, tutorials, safety, compatibility matrices, and contributor documentation |
+>
+> ### Future Expansion
+>
+> Planned future ecosystem areas include:
+>
+> - humanoid and dual-arm robotics
+> - fleet management
+> - cloud robotics
+> - remote operation
+> - AI-assisted autonomy
+> - industrial integrations
+> - educational platforms
 >
 > ### Legacy Status
 >
