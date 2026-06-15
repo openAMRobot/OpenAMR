@@ -1,4 +1,106 @@
-# Affordable dual-arm mobile robot for SMEs (OpenAMRobot)
+# OpenAMRobot
+
+## Turn Domain Expertise into Robotic Skills by Demonstration
+
+### The Programming Language of Robotics is Domain Expertise.
+
+OpenAMRobot is an open-source Physical AI development platform that enables startups, researchers, universities, and domain experts to build, train, validate, and deploy robotic solutions without rebuilding the entire robotics stack.
+
+We believe the future of robotics will not be built by robotics engineers alone.
+
+It will be built by:
+
+- Manufacturing experts
+- Logistics specialists
+- Healthcare professionals
+- Researchers
+- Entrepreneurs
+- Innovators
+
+People who understand problems and want to automate them.
+
+OpenAMRobot provides the infrastructure that transforms domain expertise into robotic capabilities.
+
+---
+
+## Why OpenAMRobot?
+
+Building a modern Physical AI system requires expertise across:
+
+- Robotics
+- AI
+- Perception
+- Teleoperation
+- Data collection
+- Simulation
+- Training infrastructure
+- Deployment
+
+Most teams spend months assembling infrastructure before they can validate a single robotic application.
+
+OpenAMRobot reduces this complexity by providing an integrated development platform for:
+
+- Mobile manipulation
+- Teleoperation
+- Data collection
+- Imitation learning
+- Embodied AI research
+- Human-in-the-loop training
+- Robot skill development
+- Real-world deployment
+
+**The fastest path from business problem to robotic solution.**
+
+---
+
+## Robotics 3.0
+
+### Software evolution
+
+**Software 1.0**  
+Write code
+
+↓
+
+**Software 2.0**  
+Train models
+
+↓
+
+**Software 3.0**  
+Describe outcomes
+
+### Robotics evolution
+
+**Robotics 1.0**  
+Program robots
+
+↓
+
+**Robotics 2.0**  
+Train robots
+
+↓
+
+**Robotics 3.0**  
+Teach robots by demonstration
+
+OpenAMRobot is building the platform for Robotics 3.0.
+
+---
+
+## How it works
+
+```text
+Domain Expert
+        ↓
+Demonstrates Task
+        ↓
+OpenAMRobot Collects Data
+        ↓
+AI Learns Skill
+        ↓
+Robot Executes Task
 
 > [!IMPORTANT]
 > ## OpenAMRobot Ecosystem
