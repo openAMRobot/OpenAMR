@@ -60,12 +60,8 @@ OpenAMRobot reduces this complexity by providing an integrated development platf
 **Software 1.0**  
 Write code
 
-↓
-
 **Software 2.0**  
 Train models
-
-↓
 
 **Software 3.0**  
 Describe outcomes
@@ -75,12 +71,8 @@ Describe outcomes
 **Robotics 1.0**  
 Program robots
 
-↓
-
 **Robotics 2.0**  
 Train robots
-
-↓
 
 **Robotics 3.0**  
 Teach robots by demonstration
@@ -91,16 +83,97 @@ OpenAMRobot is building the platform for Robotics 3.0.
 
 ## How it works
 
-```text
-Domain Expert
-        ↓
-Demonstrates Task
-        ↓
-OpenAMRobot Collects Data
-        ↓
-AI Learns Skill
-        ↓
+Domain Expert  
+↓  
+Demonstrates Task  
+↓  
+OpenAMRobot Collects Data  
+↓  
+AI Learns Skill  
+↓  
 Robot Executes Task
+
+OpenAMRobot connects hardware, software, AI, and deployment into a single workflow.
+
+---
+
+## What OpenAMRobot provides
+
+### Reference hardware
+
+- Autonomous mobile robot platform
+- Dual-arm mobile manipulation
+- Adjustable lift systems
+- Modular sensor architecture
+- Open hardware designs
+
+### Software infrastructure
+
+- ROS 2 ecosystem
+- Navigation and autodocking
+- Teleoperation interfaces
+- Simulation environments
+- Embedded firmware
+
+### Physical AI infrastructure
+
+- Demonstration data collection
+- ROS bag recording
+- Dataset generation
+- Imitation learning pipelines
+- Foundation model integration
+- Policy training workflows
+- Deployment infrastructure
+
+---
+
+## Who is OpenAMRobot for?
+
+### Today
+
+- Robotics startups
+- Universities
+- Research laboratories
+- Corporate innovation teams
+- Venture builders
+
+### Tomorrow
+
+- Manufacturing
+- Logistics
+- Healthcare
+- Agriculture
+- Service robotics
+
+Our users build robots.
+
+Their users deploy robots.
+
+---
+
+## Why OpenAMRobot matters
+
+Physical AI is creating a new generation of robots that learn from demonstration, adapt to new tasks, and solve real-world problems.
+
+Yet building a trainable robot still requires expertise across hardware, software, AI, teleoperation, data collection, training pipelines, simulation, deployment, and hardware integration.
+
+OpenAMRobot reduces this complexity by providing an integrated platform that enables anyone with domain expertise to create robotic solutions.
+
+The real value is not the robot itself.
+
+The real value is how efficiently a robotic system can solve a business problem.
+
+---
+
+## Our vision
+
+The next generation of creators will not just build software.
+
+They will build robots.
+
+OpenAMRobot enables anyone with domain expertise to create robotic solutions without becoming a robotics engineer.
+
+**The Programming Language of Robotics is Domain Expertise.**
 
 > [!IMPORTANT]
 > ## OpenAMRobot Ecosystem
