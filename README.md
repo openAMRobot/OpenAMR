@@ -223,7 +223,7 @@ Our project empowers you to build your own AMR using open-source designs and acc
 
 Support open-source robotics, ROS2 development, AI robotics education, Dual-arm mobile robot research.
 
-### 🤖 Back the build - one-time, no strings
+### Back the build - one-time, no strings
 
 | Tier | Price | What it says about you | Link |
 |---|---:|---|---|
