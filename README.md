@@ -223,17 +223,29 @@ Our project empowers you to build your own AMR using open-source designs and acc
 
 Support open-source robotics, ROS2 development, AI robotics education, Dual-arm mobile robot research.
 
+### 🤖 Back the build - one-time, no strings
+
+| Tier | Price | What it says about you | Link |
+|---|---:|---|---|
+| ⚡ **First Mover** | €5 | You got here first, and you didn't overthink it. Your name goes on the backers wall - permanently - as one of the people who moved before it was obvious. Five euros, one good instinct. | <a href="https://buy.stripe.com/eVqcN5b99eeAaSd7WPgUM06" target="_blank" rel="noopener noreferrer">Back it</a> |
+| 🎯 **Sharpshooter** | €25 | You spotted it early and called it. Name on the wall + a shareable "OpenAMRobot Backer" badge - proof you saw it coming while everyone else was still scrolling. | <a href="https://buy.stripe.com/4gMdR9ell1rO2lH90TgUM07" target="_blank" rel="noopener noreferrer">Back it</a> |
+| 🕶️ **Insider** | €50 | You want in behind the curtain. Everything above + the backer-only build log and early files - every breakthrough, every faceplant, unfiltered. You see it before the internet does. | <a href="https://buy.stripe.com/eVq14nfpp4E0gcx2CvgUM08" target="_blank" rel="noopener noreferrer">Back it</a> |
+| 🔩 **Immortal** | €100 | Your name goes on the actual robot. Physically. Forever. A machine will roll around carrying your name long after any of us remember why — and you'll have the photo to prove you were there. | <a href="https://buy.stripe.com/00w00jdhhb2o4tPfphgUM09" target="_blank" rel="noopener noreferrer">Back it</a> |
+| 🏆 **Founding Backer** | €250 | Not a supporter - a co-author. Everything above + a personal thank-you in a build video. When this becomes something, you were one of the people who decided it would. | <a href="https://buy.stripe.com/28EeVdcdddawaSdeldgUM0a" target="_blank" rel="noopener noreferrer">Back it</a> |
+
 ### Monthly subscriptions
 
 | Tier | Price | Link |
 |---|---:|---|
-| Community | €19/month | <a href="https://buy.stripe.com/6oUcN55OPc6s3pL4KDgUM00" target="_blank">Subscribe</a> |
-| Builder | €79/month | <a href="https://buy.stripe.com/14A28r0uvdaw9O9eldgUM01" target="_blank">Subscribe</a> |
-| Pro Support | €299/month | <a href="https://buy.stripe.com/dRm4gz4KLdaw6BX4KDgUM02" target="_blank">Subscribe</a> |
-| Startup Support | €750/month | <a href="https://buy.stripe.com/7sY8wPfpp8Ugf8t90TgUM03" target="_blank">Subscribe</a> |
-| Lab Support | €1,500/month | <a href="https://buy.stripe.com/eVq14ndhh2vSaSda4XgUM04" target="_blank">Subscribe</a> |
+| 😇 **Benefactor** | €5/month | <a href="https://buy.stripe.com/9B6cN5dhh9Yk7G1cd5gUM05" target="_blank" rel="noopener noreferrer">Subscribe</a> |
+| ❤️ **Community** | €19/month | <a href="https://buy.stripe.com/6oUcN55OPc6s3pL4KDgUM00" target="_blank" rel="noopener noreferrer">Subscribe</a> |
+| 🔧 **Builder** | €79/month | <a href="https://buy.stripe.com/14A28r0uvdaw9O9eldgUM01" target="_blank" rel="noopener noreferrer">Subscribe</a> |
+| 🚀 **Pro Support** | €299/month | <a href="https://buy.stripe.com/dRm4gz4KLdaw6BX4KDgUM02" target="_blank" rel="noopener noreferrer">Subscribe</a> |
+| 🏢 **Startup Support** | €750/month | <a href="https://buy.stripe.com/7sY8wPfpp8Ugf8t90TgUM03" target="_blank" rel="noopener noreferrer">Subscribe</a> |
+| 🔬 **Lab Support** | €1,500/month | <a href="https://buy.stripe.com/eVq14ndhh2vSaSda4XgUM04" target="_blank" rel="noopener noreferrer">Subscribe</a> |
 
-GitHub Sponsors: https://github.com/sponsors/openAMRobot
+GitHub Sponsors:
+<a href="https://github.com/sponsors/openAMRobot" target="_blank" rel="noopener noreferrer">https://github.com/sponsors/openAMRobot</a>
 
 Every contribution, big or small, helps us grow. Thank you for your support!
 
