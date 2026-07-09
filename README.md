@@ -23,6 +23,17 @@ OpenAMRobot provides the infrastructure that transforms domain expertise into ro
 
 ---
 
+> [!NOTE]
+> This repository is still available and may be useful for reference. However, active development has moved to our new repository structure.
+>
+> We have now separated the project into dedicated **Hardware (HW)**, **Software (SW)**, and **Firmware (FW)** repositories. Most of the content from this repository has been migrated, improved, and extended in the Hardware repository.
+>
+> 👉 **New Hardware repository:** https://github.com/openAMRobot/openamr-platform-hw
+>
+> We recommend using the new repositories for all new projects and contributions.
+
+---
+
 ## Why OpenAMRobot?
 
 Building a modern Physical AI system requires expertise across:
