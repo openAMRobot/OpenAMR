@@ -23,14 +23,61 @@ OpenAMRobot provides the infrastructure that transforms domain expertise into ro
 
 ---
 
-> [!NOTE]
-> This repository is still available and may be useful for reference. However, active development has moved to our new repository structure.
->
-> We have now separated the project into dedicated **Hardware (HW)**, **Software (SW)**, and **Firmware (FW)** repositories. Most of the content from this repository has been migrated, improved, and extended in the Hardware repository.
->
-> 👉 **New Hardware repository:** https://github.com/openAMRobot/openamr-platform-hw
->
-> We recommend using the new repositories for all new projects and contributions.
+# ⚠️ This Repository Has Moved
+
+OpenAMR has evolved into a modular, better organized project.
+
+As part of the **OpenAMRobot v0.0.1** release, the original repository has been split into dedicated repositories for hardware, software, firmware, and documentation.
+
+## 🚀 Watch the Release
+
+[![OpenAMRobot v0.0.1 Release](https://img.youtube.com/vi/LCLWUHWGkIY/maxresdefault.jpg)](https://www.youtube.com/shorts/LCLWUHWGkIY)
+
+▶️ **OpenAMRobot v0.0.1 — First Public Release**
+
+---
+
+## 📦 New Project Structure
+
+### 🛠️ Hardware
+https://github.com/openAMRobot/openamr-platform-hw
+
+Complete mechanical design, CAD, manufacturing files, BOM, electrical documentation, chassis, wiring, and assembly documentation.
+
+### 🤖 Software
+https://github.com/openAMRobot/openamr-platform-sw
+
+ROS 2 Jazzy, Nav2, Gazebo Harmonic, SLAM, autonomous navigation, auto-docking, UI, simulation, Docker, and robotics software.
+
+### ⚙️ Firmware
+https://github.com/openAMRobot/openamr-platform-fw
+
+micro-ROS firmware, motor control, odometry, IMU integration, PID control, telemetry, safety framework, and embedded software.
+
+---
+
+## 📢 What Happened?
+
+Most of the content previously available in this repository has been:
+
+- ➜ migrated to **openamr-platform-hw**
+- ➜ partially migrated to **openamr-platform-fw**
+- ➜ reorganized into a modular repository structure
+- ➜ updated with improved documentation and architecture
+
+The legacy repository is now kept mainly for historical reference.
+
+---
+
+## ❤️ Continue the Journey
+
+OpenAMRobot is becoming an open ecosystem for embodied AI, autonomous mobile robots, and mobile manipulation.
+
+If you're looking for the latest development, please start here:
+
+👉 https://github.com/openAMRobot
+
+⭐ Star the project if you'd like to support open robotics.
 
 ---
 
