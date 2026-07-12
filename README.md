@@ -415,26 +415,3 @@ We are working on information about the workflow, coding standards, and submissi
 
 This project is licensed under the MIT License. For more info please check `LICENSE` [LICENSE](https://github.com/openAMRobot/OpenAMR/blob/main/LICENSE) file in the root directory.
 
-### Support Our Project
-Help us bring innovative AI & robotics project to the next level!
-
-## Support OpenAMRobot
-
-Support open-source robotics, ROS2 development, AI robotics education, Dual-arm mobile robot research.
-
-### Monthly subscriptions
-
-| Tier | Price | Link |
-|---|---:|---|
-| Community | €19/month | <a href="https://buy.stripe.com/6oUcN55OPc6s3pL4KDgUM00" target="_blank">Subscribe</a> |
-| Builder | €79/month | <a href="https://buy.stripe.com/14A28r0uvdaw9O9eldgUM01" target="_blank">Subscribe</a> |
-| Pro Support | €299/month | <a href="https://buy.stripe.com/dRm4gz4KLdaw6BX4KDgUM02" target="_blank">Subscribe</a> |
-| Startup Support | €750/month | <a href="https://buy.stripe.com/7sY8wPfpp8Ugf8t90TgUM03" target="_blank">Subscribe</a> |
-| Lab Support | €1,500/month | <a href="https://buy.stripe.com/eVq14ndhh2vSaSda4XgUM04" target="_blank">Subscribe</a> |
-
-GitHub Sponsors: https://github.com/sponsors/openAMRobot
-
-Every contribution, big or small, helps us grow. Thank you for your support!
-
-Every contribution, big or small, helps us grow. Thank you for your support!
-
