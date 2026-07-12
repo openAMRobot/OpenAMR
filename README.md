@@ -29,14 +29,18 @@ OpenAMR has evolved into a modular, better organized project.
 
 As part of the **OpenAMRobot v0.0.1** release, the original repository has been split into dedicated repositories for hardware, software, firmware, and documentation.
 
-## 🚀 Watch the Release
+## 📢 What Happened?
 
-[![OpenAMRobot v0.0.1 Release](https://img.youtube.com/vi/LCLWUHWGkIY/maxresdefault.jpg)](https://www.youtube.com/shorts/LCLWUHWGkIY)
+Most of the content previously available in this repository has been:
 
-▶️ **OpenAMRobot v0.0.1 — First Public Release**
+- ➜ migrated to **openamr-platform-hw**
+- ➜ partially migrated to **openamr-platform-fw**
+- ➜ reorganized into a modular repository structure
+- ➜ updated with improved documentation and architecture
+
+The legacy repository is now kept mainly for historical reference.
 
 ---
-
 ## 📦 New Project Structure
 
 ### 🛠️ Hardware
@@ -55,17 +59,11 @@ https://github.com/openAMRobot/openamr-platform-fw
 micro-ROS firmware, motor control, odometry, IMU integration, PID control, telemetry, safety framework, and embedded software.
 
 ---
+## 🚀 Watch the Release
 
-## 📢 What Happened?
+[![OpenAMRobot v0.0.1 Release](https://img.youtube.com/vi/LCLWUHWGkIY/maxresdefault.jpg)](https://www.youtube.com/shorts/LCLWUHWGkIY)
 
-Most of the content previously available in this repository has been:
-
-- ➜ migrated to **openamr-platform-hw**
-- ➜ partially migrated to **openamr-platform-fw**
-- ➜ reorganized into a modular repository structure
-- ➜ updated with improved documentation and architecture
-
-The legacy repository is now kept mainly for historical reference.
+▶️ **OpenAMRobot v0.0.1 — First Public Release**
 
 ---
 
